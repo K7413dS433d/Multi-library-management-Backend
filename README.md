@@ -1,8 +1,6 @@
-## 📖 Multi-Library Management System
+### 📖 Multi-Library Management System
 
-A **full-featured library management system** built with **Express.js, MongoDB, Mongoose, and GraphQL**, designed to make managing multiple libraries efficient and seamless.
-
-This system allows users to **register, borrow books, return books, and track overdue books**, while admins have full control over managing books, libraries, and users.
+This project allows users to **borrow, return, and track books** across multiple libraries. Users can register and log in with different roles, while admins have full control over managing books, libraries, and users. The system ensures efficient book tracking, overdue book management, and seamless interaction between libraries and their collections.
 
 ## ✨ Features
 
@@ -15,25 +13,25 @@ This system allows users to **register, borrow books, return books, and track ov
 
 ### 📚 Book Management
 
-- Add a new book
-- Delete a book
-- Return a borrowed book
-- Borrow a book
-- View all books
-- Get a specific book
-- Get all overdue books
-- Add an existing book to an existing library
+- Add new books to the system
+- Delete books when no longer needed
+- Return borrowed books
+- Borrow books and track due dates
+- View all available books
+- Search for a specific book
+- Track overdue books
+- Assign existing books to specific libraries
 
 ### 🏛️ Library Management
 
-- Add a new library
-- Delete a library
-- Get all libraries with their books
-- Get a specific library and its books
+- Create and manage multiple libraries
+- Delete libraries when necessary
+- View all libraries along with their book collections
+- Retrieve details of a specific library
 
 ### 👤 Account Management
 
-- Delete user account
+- Allow users to delete their accounts
 
 ## 🛠️ Tech Stack
 
